@@ -1,6 +1,4 @@
 # Datasets
 
-This folder contains the provider comparison data and scorecards used in the thesis.
-
-- `normalized-provider-comparison-matrix.pdf` — capability-state matrix for 20 providers across 48 variables.
-- `provider-scorecard-and-evidence-context.pdf` — technical maturity, market momentum, accessibility, enterprise readiness, strategic relevance, and evidence context.
+- [Normalized provider comparison matrix](normalized-provider-comparison-matrix.docx): capability states for 20 GPU cloud providers across 48 variables.
+- [Provider scorecard and evidence context](provider-scorecard-and-evidence-context.docx): provider scores, evidence confidence, and access context.
