@@ -1,8 +1,8 @@
-# Documentation (pending)
+# Research documentation
 
-Suggested files after a careful check against the thesis and final workbooks:
+- `benchmark-variables-and-coding-rules.pdf` — full original Appendix 2 (thesis pp. 82–85): state codebook, composite criteria, and all 48 variable definitions.
+- `evidence-log-structure.pdf` — original Appendix 5 (thesis p. 99).
+- `evidence-log-guide.md` — machine-readable transcription of the evidence-log fields in Appendix 5.
+- `provider-cohort-selection-log.pdf` — original Appendix 1 (thesis pp. 78–81), retained here as an additional reproducibility copy.
 
-- `coding-rules.md` — capability-state legend, variable definitions, and scoring rules.
-- `evidence-log-structure.md` — evidence-log field definitions and evidence-strength scheme.
-
-Do not publish a guessed codebook or evidence register.
+All PDF extracts come from the uploaded `Thesis_2026.pdf` and retain the source tables. They are not fresh provider research.
